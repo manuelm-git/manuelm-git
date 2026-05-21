@@ -1,7 +1,11 @@
 # Hi 👋, I'm Manuel Martins
 
 ### 42 Lisboa student focused on software engineering, backend, Linux, C/C++, and Docker.
+[![manumart's 42 stats](https://badge.mediaplus.ma/darkblue/manumart?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
+# Hi, I'm Manuel Martins aka Mano Hell 👋
+
+42 Lisboa student focused on software engineering, backend, Linux, C/C++, and Docker.
 - 📫 How to reach me **manuelmartinswk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
